@@ -1,0 +1,1 @@
+截断条件：php版本小于5.3.4，php的magic_quotes_gpc为OFF状态
